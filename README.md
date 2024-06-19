@@ -1,5 +1,5 @@
 # DSA_STRINGS
 
 
-// Solving different problems by learning different concepts of sorting in data structures and algorithms in cpp language
+// Solving different problems by learning different concepts of strings in data structures and algorithms
 
